@@ -1,17 +1,18 @@
 ## [object Object]
 
-<h3 style="align-items:start">👩‍💻  shino369 / Anthony Wong</h3>
+<h3>👩‍💻  shino369 / Anthony Wong</h3>
 Trilingual Software Engineer living in Tokyo
 
-<div style="font-size:14px;opacity:0.7">Procient in English (TOEIC 910), Japanese (JLPT N1), and Chinese (Native).</div>
+Procient in English (TOEIC 910), Japanese (JLPT N1), and Chinese (Native)
+
 <br/>
-<div style="font-size:12px;opacity:0.7">Do not use github frequently, so you can barely see anything here.</div>
+Do not use github frequently, so you can barely see anything here💤
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shino369&layout=donut&bg_color=0D1117&text_color=c9d1d9&title_color=435ebf&hide_border=true&hide=c%2B%2B,html,cmake,mdx,css,swift,scss,ruby,c)](#)
 
 ###
 
-<div style="align-items:start">
+<div>
   <a href="https://www.linkedin.com/in/aw3939/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -21,12 +22,12 @@ Trilingual Software Engineer living in Tokyo
 
 ##
 
-<h3 style="align-items:start">🛠 Language and tools</h3>
+<h3>🛠 Language and tools</h3>
 
 ###
 
-<div style="pointer-events:none">
-    <a href="#"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
+<div>
+    <a href="#" style="pointer-events:none"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
